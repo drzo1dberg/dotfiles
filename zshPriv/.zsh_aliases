@@ -1,0 +1,13 @@
+alias ls='ls --color=auto'
+alias ll='ls -lah --color=auto'
+alias ec="$EDITOR $HOME/.zshrc" # edit .zshrc
+alias ea="$EDITOR $HOME/.zsh_aliases" #edit aliases
+alias sc="source $HOME/.zshrc"  # reload zsh configuration
+alias ..='cd ./..'
+alias ...='cd ./../..'
+alias cls='clear'
+alias c='clear'
+alias v='nvim'
+alias GOL='cd /storage/workspace01/go'
+alias WOR='cd /storage/workspace01'
+alias DOC='cd ~/Documents/'
